@@ -26,4 +26,3 @@ steps:
   - name: Build APK
     run: ./gradlew assembleDebug
 ```
-
