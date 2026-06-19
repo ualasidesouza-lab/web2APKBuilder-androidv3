@@ -17,7 +17,7 @@ class MainActivity : ComponentActivity() {
         webView.settings.javaScriptEnabled = true
         webView.webViewClient = WebViewClient()
 
-        webView.loadUrl("https://google.com")
+        webView.loadUrl("https://uts-plan-flow.base44.app")
 
         setContentView(webView)
     }
